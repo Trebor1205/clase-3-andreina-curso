@@ -1,6 +1,6 @@
 [Project]
-filename=Proyecto4.dev
-name=Proyecto4
+filename=practica 2.dev
+name=practica 2
 Type=1
 Ver=2
 ObjFiles=
@@ -29,7 +29,7 @@ IncludeVersionInfo=0
 SupportXPThemes=0
 CompilerSet=0
 CompilerSettings=0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0
-UnitCount=2
+UnitCount=1
 
 [VersionInfo]
 Major=1
@@ -51,17 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=pratica 1.2.c
-CompileCpp=0
-Folder=
-Compile=1
-Link=1
-Priority=1000
-OverrideBuildCmd=0
-BuildCmd=
-
-[Unit2]
-FileName=pratica 2.c
+FileName=pratica 3.c
 CompileCpp=0
 Folder=
 Compile=1
